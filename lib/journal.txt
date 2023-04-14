@@ -1,0 +1,72 @@
+
+m                 n                      ɲ                     ŋ                    nasal
+p b               t d                    c ɟ                 k g                    plosive
+    pf bv           ts dz    tʃ dʒ                                                  affricate
+ɸ β     f v    θ ð    s z     ʃ ʒ        ç ʝ                 x ɣ          h         fricative
+                r                                                   ʁ               rhotic
+                l                       ʎ                                           lateral
+    w           ɹ                       j                     w                    semivowel
+                                        i                     u                     high vowel
+                                            ɪ             ʊ            
+                                        e                     o                     mid vowel
+                                                    ə
+                                            ɛ             ɔ
+                    `
+                                                     a                              low vowel
+
+
+INSERTION
+[]CC > [V]CC
+
+DELETION
+[C]# > []#
+[C]C > []C
+[h] > []
+
+FORTITION
+
+LENITION
+
+TENSING
+
+LAXING
+
+DIPHTHONGIZATION
+
+MONOPHTHONGIZATION
+
+VOCALIZATION
+[v]         > [w]
+[l]         > [j] [w]
+[j]         > [i] [ɪ]
+[w]         > [u] [ʊ]
+
+PALATALIZATION                                  
+[k]         > [c] [tʃ] [ts] 
+[g]         > [ɟ] [dʒ] [dz]
+[s] [ts]    > [ʃ] [tʃ]
+[z] [dz]    > [ʒ] [dʒ]
+[ll]        > [ʎ]
+[nn]        > [ɲ]
+
+R-GUTTURALIZATION 
+[r]         > [ʁ]
+
+ASSIMILATION
+
+SPLIT
+
+
+
+panem > pane
+homo > uomo
+sperare > esperar
+scriptum > écrit,...
+ceresia
+ferrum > hierro, fer 
+pati > はち
+cattus > gato, chat
+caballus > caballo, cheval
+
+dulce > dulce, doux
+ek, ego > ek, ik, ich, I, eu, yo, io, je
